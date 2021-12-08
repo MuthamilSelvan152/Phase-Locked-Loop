@@ -1,2 +1,2 @@
 # Phase-Locked-Loop
-PLL algorithm
+PLL algorithm for single phase grid sync
